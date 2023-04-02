@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @georgy-sidorkin
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Statistic
 - 📫 How to reach me: 
 - mail: gosha.sidorkin13@gmail.com
 - telegram: @sidorkingosha
